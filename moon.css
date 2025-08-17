@@ -1,0 +1,28 @@
+p{
+    text-transform:capitalize;
+    text-decoration-line:line-through;
+}
+
+h2{
+    text-decoration-line: line-through overline underline;
+    text-decoration-color: darkred;
+    text-decoration:underline blue wavy;
+    
+    
+
+}
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    word-wrap: break-word;
+}
+div{
+    height: 200px;
+    background-image: linear-gradient(to right red,green);
+}
+
+
+
